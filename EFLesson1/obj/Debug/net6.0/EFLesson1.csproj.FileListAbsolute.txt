@@ -1,0 +1,15 @@
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\bin\Debug\net6.0\EFLesson1.exe
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\bin\Debug\net6.0\EFLesson1.deps.json
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\bin\Debug\net6.0\EFLesson1.runtimeconfig.json
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\bin\Debug\net6.0\EFLesson1.dll
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\bin\Debug\net6.0\EFLesson1.pdb
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\obj\Debug\net6.0\EFLesson1.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\obj\Debug\net6.0\EFLesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\obj\Debug\net6.0\EFLesson1.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\obj\Debug\net6.0\EFLesson1.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\obj\Debug\net6.0\EFLesson1.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\obj\Debug\net6.0\EFLesson1.dll
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\obj\Debug\net6.0\refint\EFLesson1.dll
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\obj\Debug\net6.0\EFLesson1.pdb
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\obj\Debug\net6.0\EFLesson1.genruntimeconfig.cache
+C:\Users\Vlad\source\repos\EFLesson1\EFLesson1\obj\Debug\net6.0\ref\EFLesson1.dll
